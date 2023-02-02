@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 - Solution URL: [Add solution URL here](https://github.com/pazza0118/qrCode.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://pazza0118.github.io/qrCode/)
 
 ## My process
 - Added QR code title and text in html file
