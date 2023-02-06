@@ -43,6 +43,8 @@ table {
 	border-spacing: 0;
 }
 
+
+
 .screen {
     display: flex;
     justify-content: center;
@@ -57,8 +59,8 @@ table {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    max-width: 280px;
-    padding: 15px;
+    max-width: 330px;
+    padding: 17px;
     border-radius: 1rem;
 }
 
@@ -71,18 +73,22 @@ table {
 .card-body {
     font-family: 'Outfit', sans-serif;
     text-align: center;
-    padding: 8px;
+    padding: 12px;
     box-sizing: border-box;
 
 }
 .card-title {
     color: hsl(218, 44%, 22%);
-    font-size: 1.3rem;
+    font-size: 1.6rem;
     font-weight: 700;
+    margin: 20px 0px;
+    line-height: 1.8rem;
 }
 
 .card-text {
     color: hsl(220, 15%, 55%);
-    font-size: 15px;
+    font-size: 1.1rem;
+    line-height: 1.2rem;
     font-weight: 400;
+    margin: 5px 0px 20px;
 }
