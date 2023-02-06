@@ -28,6 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Created container div for applying css later
 - Created separate css file, created container css classes first
 - Added css classes for the QR code img, and its container, then the title, then text
+- *Update Solution: Added css reset, then readjusted the css to match provided img
 
 ### Built with
 - Semantic HTML5 markup
